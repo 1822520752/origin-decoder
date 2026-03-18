@@ -1,57 +1,111 @@
-# ORIGIN DECODER - 天赋算法引擎
+# 🌌 ORIGIN DECODER: The Talent Algorithm Engine
 
+<p align="center">
+  <img src="./public/screenshot.png" alt="ORIGIN DECODER Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 30px rgba(0,0,0,0.5);">
+</p>
+
+<p align="center">
+  <a href="https://github.com/1822520752/origin-decoder/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/1822520752/origin-decoder?style=for-the-badge&color=3b82f6" alt="license">
+  </a>
+  <img src="https://img.shields.io/badge/Next.js-14-000000?style=for-the-badge&logo=next.js" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind">
+</p>
+
+---
+
+## 🌟 Overview / 项目概述
+
+**English:**  
+Most people spend 80% of their lives filling emptiness with consumption, never discovering their true **Production Talent**. They feel exhausted at work because they are chasing "Long Axis" standards with their "Short Axis."  
+**ORIGIN DECODER** is a first-principles engine designed to deconstruct your innate talent. It peels away external labels and consumption habits to lock onto your core **Production Coordinates**.
+
+**中文：**  
+很多人 80% 的人生都在用消费填补空虚，从未思考过自己的**生产天赋**。他们在职场中感到疲惫，本质是因为在用自己的“短轴”去追逐标准的“长轴”。  
+**ORIGIN DECODER** 是一款基于第一性原理打造的引擎，旨在解构你的本源天赋。它通过剥离外部评价标签与消费习惯，精准锁定你的核心**生产坐标**。
+
+> **"When you become yourself, you are the most powerful productivity."**  
 > **“当你做回自己时，你才是最强大的生产力。”**
 
-![ORIGIN DECODER Preview](./public/screenshot.png)
+---
 
-基于第一性原理，剥离表层的职位标签与消费习惯，锁定你的【生产】天赋坐标。
+## 🧠 The First Principles / 核心逻辑
 
-## 项目简介
+We define how you interact with the world through two fundamental axes:  
+我们认为，你与万物互动的方式本质上由两个坐标轴决定：
 
-**ORIGIN DECODER** 是一款帮助职场人解构自身天赋的闭环产品。它不关注你的“兴趣”或“爱好”，而是通过两个底层坐标轴锁定你在天赋系统中的真实定位：
+1.  **Energy Flow (Creation vs. Iteration) / 能量流向 (开创 vs. 迭代)**  
+    *   **Creation**: High openness, thrive on "0 to 1" innovation.
+    *   **Iteration**: Pragmatic, thrive on "1 to 100" refinement.
+2.  **Attention Core (Logic vs. Feeling) / 关注内核 (逻辑 vs. 感受)**  
+    *   **Logic**: Understand the world through structures, efficiency, and laws.
+    *   **Feeling**: Understand the world through resonance, connections, and energy.
 
-1.  **第一条轴：能量流向** (开创 Creation vs. 迭代 Iteration)
-2.  **第二条轴：关注内核** (逻辑 Logic vs. 感受 Feeling)
+### 🏛️ The Four Talent Systems / 四大天赋系统
+-   **Architect (架构师)**: [Logic + Creation] —— The Lawmaker. Builds systems and rules.
+-   **Optimizer (优化师)**: [Logic + Iteration] —— The Guardian. Refines perfection and fights entropy.
+-   **Visionary (梦想家)**: [Feeling + Creation] —— The Inspirer. Captures sparks and paints the future.
+-   **Connector (连接者)**: [Feeling + Iteration] —— The Nurturer. Routers of information and safe harbors for emotions.
 
-通过双轴交叉，定义了四大核心天赋系统：**架构师 (Architect)**、**优化师 (Optimizer)**、**梦想家 (Visionary)**、**连接者 (Connector)**。
+---
 
-## 核心模块矩阵
+## 🚀 Module Matrix / 核心模块
 
--   **Module 01: 天赋解构引擎 (Decipher Engine)**：基于第一性原理的沉浸式测评，剥离消费型幻觉，锁定生产本能。
--   **Module 02: 疲惫诊断仪 (Fatigue Diagnostic)**：审计日常任务的能量流向，定位天赋错位点，揭示职场疲惫的底层真相。
--   **Module 03: 生产力实验室 (Productivity Lab)**：为四类天赋量身打造的专属工具箱（如 Obsidian, Raycast, Midjourney, Clay）与 AI 协同策略。
--   **Module 04: 命运重塑路径 (Destiny Roadmap)**：建立天赋到高价值职业与开源项目的映射矩阵，规划你的“降维打击”路径。
+### 01. Decipher Engine / 天赋解构引擎
+*   **EN:** Immersive assessment to strip away "consumption illusions" and reveal production instincts.
+*   **CN:** 沉浸式测评，剥离“消费型幻觉”，揭示你本能的生产冲动。
 
-## 技术实现
+### 02. Fatigue Diagnostic / 疲惫诊断仪
+*   **EN:** Audits daily tasks to identify "Talent Mismatch." Quantifies why you feel drained.
+*   **CN:** 审计日常任务，定位“天赋错位”点。量化能量损耗，揭示疲惫真相。
 
--   **Frontend**: Next.js 14 (App Router) + TypeScript
--   **Styling**: Tailwind CSS + Framer Motion (工业蓝图视觉风格)
--   **State Management**: Zustand + Persistence (LocalStorage)
--   **Visualization**: Recharts (动态坐标系与能耗分布图)
--   **Icons**: Lucide React
+### 03. Productivity Lab / 生产力实验室
+*   **EN:** Tailored toolkits (Obsidian, Raycast, Midjourney) and AI strategies for each quadrant.
+*   **CN:** 为不同象限量身打造的工具箱（如 Obsidian, Raycast 等）与 AI 协同策略。
 
-## 快速开始
+### 04. Destiny Roadmap / 命运重塑路径
+*   **EN:** Mapping matrix from talent to high-value careers and open-source projects.
+*   **CN:** 建立从天赋到高价值职业与开源项目的映射矩阵，规划你的“降维打击”路径。
 
-### 1. 安装依赖
+---
+
+## 🛠️ Tech Stack / 技术栈
+
+-   **Framework**: Next.js 14 (App Router)
+-   **Language**: TypeScript
+-   **Styling**: Tailwind CSS + Framer Motion (Blueprint Aesthetic)
+-   **State**: Zustand + Middleware Persistence
+-   **Data Viz**: Recharts (Interactive Coordinates)
+
+---
+
+## ⚡ Quick Start / 快速开始
+
 ```bash
-npm install
-# 或者
-bun install
-```
+# 1. Clone the repository
+git clone https://github.com/1822520752/origin-decoder.git
 
-### 2. 启动开发服务器
-```bash
+# 2. Install dependencies
+npm install # or bun install
+
+# 3. Run development server
 npm run dev
 ```
 
-### 3. 生产构建
-```bash
-npm run build
-npm run start
-```
-
-## 开发者说明
-本产品旨在通过算法化解构人的天赋，广泛适用于迷茫期的职场人、学生及创业团队。欢迎提交 Pull Request 以完善天赋映射矩阵或增加新的生产力工具建议。
+Open [http://localhost:3000](http://localhost:3000) to start your journey.
 
 ---
-© 2026 ORIGIN DECODER - TALENT ALGORITHM ENGINE
+
+## 🤝 Contribution / 参与贡献
+
+We welcome contributions! Whether it's refining the talent mapping matrix or suggesting new tools for the lab, let's build the ultimate engine for human potential together.
+
+欢迎提交 Pull Request 以完善天赋映射矩阵，或为实验室推荐新的生产力工具。让我们共同打造解构人类潜能的终极引擎。
+
+---
+
+<p align="center">
+  <b>© 2026 ORIGIN DECODER - TALENT ALGORITHM ENGINE</b><br>
+  <i>"Stop chasing long axes with your short ones. Return to your high-energy state."</i>
+</p>
