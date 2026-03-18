@@ -1,0 +1,9 @@
+node_modules
+.next
+.trae
+.DS_Store
+*.local
+bun.lock
+.env*
+dist
+build
