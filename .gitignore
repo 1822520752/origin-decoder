@@ -7,3 +7,5 @@ bun.lock
 .env*
 dist
 build
+out
+.vercel

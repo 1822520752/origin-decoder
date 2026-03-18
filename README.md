@@ -13,6 +13,12 @@
   <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind">
 </p>
 
+<p align="center">
+  <a href="https://1822520752.github.io/origin-decoder/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-10b981?style=for-the-badge&logo=github" alt="Live Demo">
+  </a>
+</p>
+
 ---
 
 ## 🌟 Overview / 项目概述
@@ -97,7 +103,11 @@ Open [http://localhost:3000](http://localhost:3000) to start your journey.
 
 ---
 
+## ☁️ Deployment / 部署
+
+**English:**  \nThis repo is pre-configured to deploy to **GitHub Pages** via GitHub Actions.\n+\n+1. Go to **Settings → Pages**\n+2. Under **Build and deployment**, choose **GitHub Actions**\n+3. Push to `main` and the workflow will publish the site automatically\n+\n+Your Pages URL (default): https://1822520752.github.io/origin-decoder/\n+\n+**中文：**  \n+本仓库已配置 **GitHub Actions 自动部署到 GitHub Pages**。\n+\n+1. 打开仓库 **Settings → Pages**\n+2. 在 **Build and deployment** 里选择 **GitHub Actions**\n+3. 代码推送到 `main` 后会自动构建并发布\n+\n+默认访问地址：https://1822520752.github.io/origin-decoder/\n+\n ---
 ## 🤝 Contribution / 参与贡献
+
 
 We welcome contributions! Whether it's refining the talent mapping matrix or suggesting new tools for the lab, let's build the ultimate engine for human potential together.
 
